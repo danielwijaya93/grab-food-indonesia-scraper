@@ -1,4 +1,8 @@
-# Grab Food Indonesia Scraper - Project Learnings
+# Grab Food Indonesia Scraper
+
+**GitHub**: https://github.com/danielwijaya93/grab-scraper
+
+## Project Learnings
 
 ## Overview
 Built a Playwright-based scraper for Grab Food Indonesia (Jakarta) to analyze market trends at restaurant and menu level.
