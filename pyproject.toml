@@ -1,0 +1,12 @@
+[project]
+name = "grab-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "crawlee[playwright]>=1.6.0",
+    "lxml>=6.0.2",
+    "playwright>=1.58.0",
+]

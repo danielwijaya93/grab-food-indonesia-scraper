@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+*.egg
+
+# Environment
+.env
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Data outputs (ignore all output files)
+output/
+*.db
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
